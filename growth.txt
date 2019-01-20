@@ -1,0 +1,8 @@
+Houston,9.77 
+Seattle,5.00 
+Boston,4.92 
+Los Angeles,3.99 
+New York,3.94 
+Chicago,-1.05 
+San Francisco,-1.32 
+Philadelphia,-3.97 

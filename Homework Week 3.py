@@ -1,0 +1,18 @@
+SPY = float(input("Enter amount invested in SPY: "))
+QQQ = float(input("Enter amount invested in QQQ: "))
+EEM = float(input("Enter amount invested in EEM: "))
+VXX = float(input("Enter amount invested in VXX: "))
+
+total = float(SPY + QQQ + EEM + VXX)
+SPY_1 = (SPY / total)
+QQQ_1 = (QQQ / total)
+EEM_1 = (EEM / total)
+VXX_1 = (VXX / total)
+
+print('\n' "ETF" '\t' "      PERCENTAGE" '\n' "------------------------")
+print("SPY" '\t' '\t' "%.2f%%" %(SPY_1*100))
+print("QQQ" '\t' '\t' "%.2f%%" %(QQQ_1*100))
+print("EEM" '\t' '\t' "%.2f%%" %(EEM_1*100))
+print("VXX" '\t' '\t' "%.2f%%" %(VXX_1*100))
+total1 = '{:,}'.format(total)
+print('\n' "TOTAL AMOUNT INVESTED: $%s" %total1)

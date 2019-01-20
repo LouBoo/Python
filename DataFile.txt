@@ -1,0 +1,13 @@
+Bunny, Bugs
+Duck, Daffy
+Duck, Donald
+Kitty, Hello
+Mouse, Mickey
+Mouse, Minnie
+
+Bugs Bunny
+Daffy Duck
+Donald Duck
+Hello Kitty
+Mickey Mouse
+Minnie Mouse

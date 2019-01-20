@@ -1,0 +1,5 @@
+AT&T,5.15%
+Cisco,3.21%
+Intel,3.47%
+Merck,3.46%
+Verizon,4.19%

@@ -1,0 +1,5 @@
+Verizon,VZ,4.19%
+Intel,INTC,3.47%
+AT&T,T,5.15%
+Cisco,CSCO,3.21%
+Merck,MRK,3.46%
